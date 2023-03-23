@@ -20,17 +20,15 @@
     
 }
 
-h1:active {
-    color: green;
-}
+
 
 h1{
     font-size: 20px;
     margin: 10px;
     
-    
 }
 
-#TRYBER {
-    color: green;
+.TRYBER {
+  color: green;
+   
 }
